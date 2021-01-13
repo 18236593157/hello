@@ -4,3 +4,5 @@ wi
 vr
 cat
 do
+smill
+happy
