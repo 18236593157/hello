@@ -1,8 +1,1 @@
-kill
-big
-wi
-vr
-cat
-do
-smill
-happy
+落霞与孤鹜齐飞
